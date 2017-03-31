@@ -10,11 +10,7 @@ body{
 h1, h2,h4, h3, p{
   text-align: center;
 }
-h4{
-  text-decoration: underline;
-}
 
-}
 .center{
   display: flex;
   justify-content: center;
@@ -34,4 +30,13 @@ footer{
 }
 .job{
   font-size: 0.8em;
+}
+h2{
+  font-size: 36px;
+}
+h3{
+  font-size: 24px;
+}
+#haut a {
+  text-decoration: none;
 }
